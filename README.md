@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moheb619
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Developing
+- 👀 Competitive programmer
+- 🌱 Web Developer
 - 📫 email: 6moheb19@gmail.com
 
 <!---
